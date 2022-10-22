@@ -2,15 +2,16 @@
 Grocery Store Backend
 
 Tech Stack: Node, Express, Mongo <br/>
+<br/>
 Candidates need to create a simple backend for a Grocery store. This will be a complete node
 application with routes, controllers and models.
 Tasks:
 ● Create Database to hold Customer Details, Customer’s Order, Products Details.(Note:
 Create DB on local to test APIs)
 ○ Customer Details must include the following fields
-■ Email
-■ Phone
-■ Name
+■ Email <br/>
+■ Phone <br/>
+■ Name <br/>
 ○ Customer Order must include the following fields
 ■ productList
 ■ totalPrice
