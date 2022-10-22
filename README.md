@@ -12,7 +12,7 @@ Create DB on local to test APIs)
 ■ Email <br/>
 ■ Phone <br/>
 ■ Name <br/>
-○ Customer Order must include the following fields
+○ Customer Order must include the following fields  
 ■ productList
 ■ totalPrice
 ■ paymentInfo
