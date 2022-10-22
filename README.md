@@ -1,4 +1,4 @@
-<h1>Grocery Store Backend</h1>
+#Grocery Store Backend
 
 <h2>Tech Stack: Node, Express, Mongo</h2>
   
