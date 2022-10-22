@@ -1,7 +1,7 @@
 # Flixstocks-Assignment
 Grocery Store Backend
 
-Tech Stack: Node, Express, Mongo__
+Tech Stack: Node, Express, Mongo <br/>
 Candidates need to create a simple backend for a Grocery store. This will be a complete node
 application with routes, controllers and models.
 Tasks:
